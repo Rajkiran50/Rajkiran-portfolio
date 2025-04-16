@@ -5,7 +5,9 @@ Here you'll find a showcase of my projects, skills, and professional journey.
 
 ## 🔗 Connect with Me
 
-- 💼 LinkedIn: [http://www.linkedin.com/in/kudupudi-raj-kiran-600703208](http://www.linkedin.com/in/kudupudi-raj-kiran-600703208)
+- 💼 LinkedIn:(https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/kudupudi-raj-kiran-600703208)
+
+
 
 ## 📁 About This Repo
 
